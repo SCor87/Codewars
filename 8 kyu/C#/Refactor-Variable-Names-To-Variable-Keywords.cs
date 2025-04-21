@@ -15,7 +15,7 @@
     ... 
 */
 
-//My Solution
+//My solution
 public class VariableName
 {
     // Refactor this variables. Good luck ^_~

@@ -10,7 +10,7 @@
     case, return 'Fail!'.
 */
 
-//My Solution
+//My solution
 
 using System.Linq;
 public class Kata
