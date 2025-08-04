@@ -13,4 +13,5 @@ def simple_multiplication(number):
     print(new_num) 
 
 # OR COMPLETE AS BELOW
-# print(number * 8 if number % 2 == 0 else number * 9)
+# def simple_multiplication(number) :
+# return number * 8 if number % 2 == 0 else number * 9
